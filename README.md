@@ -1,6 +1,6 @@
-## Учебные проекты, выполненные в рамках ЯндексПрактикума по специальности Data Science
+## Учебные проекты и шпаргалки
 
-### Анализ данных
+### data analysis
 
 <table width="100%" valign="top">
 <thead>
@@ -45,7 +45,7 @@
 </tbody>
 </table>
 
-### Анализ данных
+### machine learning
 
 <table width="100%" valign="top">
 <thead>
